@@ -11,7 +11,9 @@ https://youtu.be/sBAL4psQ3XA
 
 https://youtu.be/MxUeTdc2qb0
 
-## 🎯 프로젝트 목표 (문제 정의)
+* 배포 URL : https://juicecoconut.com/
+
+## 🎯 프로젝트 목표
 
 기존의 온라인 코딩 수업에서는 다음과 같은 어려움이 있었습니다.
 
