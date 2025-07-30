@@ -1,6 +1,6 @@
 # 🥥 Coconut: 언제나 코딩 수업을 쉽게
 
-![코코넛 포스터](profile/coconut_poster.png)
+![코코넛 포스터](coconut_poster.png)
 <br/>
 
 ## 시연 영상
